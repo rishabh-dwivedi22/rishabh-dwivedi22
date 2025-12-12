@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Praveen Kumar Singh</h1>
 <h3 align="center">A Bachelor's Student of Computer Applications</h3>
-<a href="https://praveenksingh.vercel.app" target="_blank">jbmasdnZXS
+<a href="https://praveenksingh.vercel.app" target="_blank">
   
   <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 
