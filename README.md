@@ -13,7 +13,7 @@
   </a>
 </p>
   
-  <img align="right" alt="coding" height="260" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
+  <img align="right" alt="coding" height="250" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 
 
 - 🌱 I’m currently learning **Web Development and Programming**
