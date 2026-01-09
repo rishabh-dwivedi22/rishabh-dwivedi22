@@ -7,10 +7,13 @@
 <h3 align="center">A Bachelor's Student of Computer Applications</h3>
 <a href="https://praveenksingh.vercel.app" target="_blank">
 
-  ![](https://komarev.com/ghpvc/?username=webdevpraveen&base=500)
-
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=webdevpraveen&base=500">
+    <img src="https://komarev.com/ghpvc/?username=webdevpraveen&base=500" alt="webdevpraveen's profile views" />
+  </a>
+</p>
   
-  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
+  <img align="right" alt="coding" height="260" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 
 
 - 🌱 I’m currently learning **Web Development and Programming**
@@ -28,3 +31,14 @@
   <a href="https://www.leetcode.com/u/webdevpraveen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="PraveenKSingh" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/webdevpraveen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="PraveenKSingh" height="30" width="40" /></a>
 </p>
+
+---
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webdevpraveen/webdevpraveen/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webdevpraveen/webdevpraveen/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/webdevpraveen/webdevpraveen/output/pacman-contribution-graph.svg">
+</picture>
+
+---
