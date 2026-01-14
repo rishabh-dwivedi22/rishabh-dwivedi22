@@ -33,6 +33,8 @@
 </p>
 
 ---
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=webdevpraveen&date_format=j%20M%5B%20Y%5D&card_width=999&stroke=EB8925)](https://webdevpraveen.github.io)
+---
 
 ###
 <picture>
