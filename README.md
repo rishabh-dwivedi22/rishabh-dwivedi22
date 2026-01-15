@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=webdevpraveen&base=500">
-    <img src="https://komarev.com/ghpvc/?username=webdevpraveen&base=500" alt="webdevpraveen's profile views" />
+   :octocat: <img src="https://komarev.com/ghpvc/?username=webdevpraveen&base=500" alt="webdevpraveen's profile views" /> :octocat:
   </a>
 </p>
   
