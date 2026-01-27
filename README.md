@@ -13,13 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github/rishabh-dwivedi22(https://github.com/rishabh-dwivedi22)
 
-- 📄 Know about my experiences [linkedin/praveensingh-](https://www.linkedin.com/in/praveensingh-)
+- 📄 Know about my experiences [linkedIN] (https://www.linkedin.com/in/rishabh-rishabh-dhar-dwivedi-a33534387/)
 
 - ❤️ I love building open-source projects.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/-praveen-singh-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PraveenKSingh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="PraveenKSingh" height="30" width="40" /></a>
-
 
