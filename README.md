@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github/rishabh-dwivedi22(https://github.com/rishabh-dwivedi22)
 
-- 📄 Know about my experiences [linkedIN] (https://www.linkedin.com/in/rishabh-rishabh-dhar-dwivedi-a33534387/)
+- 📄 Know about my experiences [linkedIN] (www.linkedin.com/in/rishabh--dhar-dwivedi22)
 
 - ❤️ I love building open-source projects.
 
