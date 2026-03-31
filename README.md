@@ -38,18 +38,25 @@
 
 ---
 
-### 📊 GitHub Activity
+---
+
+<h3 align="center">📊 GitHub Activity</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-dwivedi22&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishabh's GitHub stats" />
+  <a href="https://github.com/rishabh-dwivedi22">
+    <img src="https://github-readme-stats.vercel.app/api?username=rishabh-dwivedi22&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishabh's GitHub stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-dwivedi22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/rishabh-dwivedi22">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-dwivedi22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting! Feel free to connect for collaborations.</b><br>
-  <img src="https://komarev.com/ghpvc/?username=rishabh-dwivedi22&color=blueviolet" alt="Profile Views" />
+  <b>Thanks for visiting! Feel free to connect for collaborations.</b><br><br>
+  <img src="https://komarev.com/ghpvc/?username=rishabh-dwivedi22&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
