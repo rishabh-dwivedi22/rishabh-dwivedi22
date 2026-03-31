@@ -40,8 +40,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Activity</h3>
-
+### 📊 GitHub Activity
 <p align="center">
   <a href="https://github.com/rishabh-dwivedi22">
     <img src="https://github-readme-stats.vercel.app/api?username=rishabh-dwivedi22&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishabh's GitHub stats" />
@@ -57,6 +56,9 @@
 ---
 
 <p align="center">
+  <b>Thanks for visiting! Feel free to connect for collaborations.</b><br>
+  <img src="https://komarev.com/ghpvc/?username=rishabh-dwivedi22&color=blueviolet" alt="Profile Views" />
+</p>
   <b>Thanks for visiting! Feel free to connect for collaborations.</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=rishabh-dwivedi22&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
