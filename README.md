@@ -39,6 +39,7 @@
 ---
 
 ### 📊 GitHub Activity
+### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishabh-dwivedi22&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishabh's GitHub stats" />
 </p>
@@ -46,8 +47,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-dwivedi22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 <p align="center">
   <b>Thanks for visiting! Feel free to connect for collaborations.</b><br>
