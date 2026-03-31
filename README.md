@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Rishabh Dhar Dwivedi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=BCA+Student; Web+Developer;Building+InterviewSaathi;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=BCA+Student;Building+InterviewSaathi;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,25 +37,19 @@
 </p>
 
 ---
----
 
-<h3 align="center">📊 GitHub Activity</h3>
-
+### 📊 GitHub Activity
 <p align="center">
-  <a href="https://github.com/rishabh-dwivedi22">
-    <img src="https://github-readme-stats.vercel.app/api?username=rishabh-dwivedi22&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishabh's GitHub stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-dwivedi22&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishabh's GitHub stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rishabh-dwivedi22">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-dwivedi22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-dwivedi22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting! Feel free to connect for collaborations.</b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=rishabh-dwivedi22&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <b>Thanks for visiting! Feel free to connect for collaborations.</b><br>
+  <img src="https://komarev.com/ghpvc/?username=rishabh-dwivedi22&color=blueviolet" alt="Profile Views" />
 </p>
