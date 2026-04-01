@@ -2,10 +2,12 @@
   <img alt="MasterHead" src="https://camo.githubusercontent.com/a3c73d8ca61ba83b9d6f67e0a7f98752cda3e2368659b3ab457c6b66abf8a4f7/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm Rishabh Dhar Dwivedi</h1>
+<h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 3em; color: #FF4545;">
+  Hi 👋, I'm &lt; Rishabh Dhar Dwivedi /&gt;
+</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=BCA+Student;Building+InterviewSaathi;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4545&center=true&vCenter=true&width=500&lines=BCA+Student;Full-Stack+Web+Developer;Building+InterviewSaathi;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>>
 
 ---
 
