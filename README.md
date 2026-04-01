@@ -2,9 +2,12 @@
   <img alt="MasterHead" src="https://camo.githubusercontent.com/a3c73d8ca61ba83b9d6f67e0a7f98752cda3e2368659b3ab457c6b66abf8a4f7/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm Rishabh Dhar Dwivedi</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rishabh+Dhar+Dwivedi;A+Passionate+BCA+Student;Building+Digital+Experiences" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=BCA+Student;Building+InterviewSaathi;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A9CCFF&center=true&vCenter=true&width=435&lines=Building+InterviewSaathi;Open+Source+Enthusiast" alt="Sub-typing SVG" />
 </p>
 
 ---
@@ -38,8 +41,6 @@
 
 ---
 
----
-
 ### 📊 GitHub Activity
 <p align="center">
   <a href="https://github.com/rishabh-dwivedi22">
@@ -58,7 +59,4 @@
 <p align="center">
   <b>Thanks for visiting! Feel free to connect for collaborations.</b><br>
   <img src="https://komarev.com/ghpvc/?username=rishabh-dwivedi22&color=blueviolet" alt="Profile Views" />
-</p>
-  <b>Thanks for visiting! Feel free to connect for collaborations.</b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=rishabh-dwivedi22&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
