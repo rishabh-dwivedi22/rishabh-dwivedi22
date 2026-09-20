@@ -33,18 +33,17 @@
 </p>
 
 ---
-
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-dwivedi22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Rishabh's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-dwivedi22&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-dwivedi22&show_icons=true&theme=radical&hide_border=true" alt="Rishabh's GitHub stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-dwivedi22&theme=radical&hide_border=true" alt="GitHub Streak" height="195" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-dwivedi22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh-dwivedi22&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
